@@ -1,7 +1,7 @@
-5868
+5870
 62/home/matt-dev/Desktop/client-works/landing/tailwind.config.js1715774896352588634 0
 57/home/matt-dev/Desktop/client-works/landing/src/input.css1715774866013340104 0
-58/home/matt-dev/Desktop/client-works/landing/src/output.css1716219688435227540 0
+58/home/matt-dev/Desktop/client-works/landing/src/output.css1716222078059945716 0
 67/home/matt-dev/Desktop/client-works/landing/src/assets/whatsapp.svg1715776994000000000 0
 64/home/matt-dev/Desktop/client-works/landing/src/assets/phone.svg1715776994000000000 0
 66/home/matt-dev/Desktop/client-works/landing/src/assets/twitter.svg1715776994000000000 0
@@ -1645,7 +1645,7 @@
 113/home/matt-dev/Desktop/client-works/landing/node_modules/@swc/helpers/_/_check_private_redeclaration/package.json1715774695953469388 0
 79/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/codeframe/test1715774696037467393 1
 84/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/utils/src/schema.js1715774699701380335 0
-58/home/matt-dev/Desktop/client-works/landing/src/index.html1716220201087110206 0
+58/home/matt-dev/Desktop/client-works/landing/src/index.html1716222119321593516 0
 124/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/lexer/index.js1715774701669333533 0
 79/home/matt-dev/Desktop/client-works/landing/node_modules/css-tree/lib/convertor1715774695753474136 1
 101/home/matt-dev/Desktop/client-works/landing/node_modules/caniuse-lite/data/features/scrollintoview.js1715774696613453714 0
@@ -2256,6 +2256,7 @@
 86/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/profiler/lib/types.js1715774696777449818 0
 110/home/matt-dev/Desktop/client-works/landing/node_modules/@swc/helpers/src/_class_static_private_method_get.mjs1715774696513456089 0
 64/home/matt-dev/Desktop/client-works/landing/node_modules/globals1715774695341483918 1
+76/home/matt-dev/Desktop/client-works/landing/dist/achievers-logo.dcd2256a.jpg1716221542809758501 0
 103/home/matt-dev/Desktop/client-works/landing/node_modules/lmdb/node_modules/node-addon-api/noexcept.gypi1715774701889328300 0
 111/home/matt-dev/Desktop/client-works/landing/node_modules/csso/node_modules/css-tree/lib/syntax/atrule/import.js1715774700049372063 0
 131/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/scope/index.js1715774701669333533 0
@@ -4899,6 +4900,7 @@
 118/home/matt-dev/Desktop/client-works/landing/node_modules/csso/node_modules/css-tree/cjs/syntax/node/MediaQueryList.cjs1715774700005373109 0
 94/home/matt-dev/Desktop/client-works/landing/node_modules/@swc/helpers/_/_await_async_generator1715774695925470053 1
 101/home/matt-dev/Desktop/client-works/landing/node_modules/@swc/helpers/_/_define_enumerable_properties1715774696153464638 1
+73/home/matt-dev/Desktop/client-works/landing/src/assets/achievers-logo.jpg1715779902803075265 0
 100/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/package-manager/test/fixtures/empty1715774701113346759 1
 91/home/matt-dev/Desktop/client-works/landing/node_modules/@swc/helpers/_/_is_native_function1715774696233462738 1
 123/home/matt-dev/Desktop/client-works/landing/node_modules/css-select/node_modules/entities/lib/generated/decode-data-html.js1715774700217368067 0
