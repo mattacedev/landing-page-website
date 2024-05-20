@@ -1,4 +1,5 @@
-5870
+5871
+68/home/matt-dev/Desktop/client-works/landing/src/assets/instagram.svg1716222294000000000 0
 62/home/matt-dev/Desktop/client-works/landing/tailwind.config.js1715774896352588634 0
 57/home/matt-dev/Desktop/client-works/landing/src/input.css1715774866013340104 0
 58/home/matt-dev/Desktop/client-works/landing/src/output.css1716222078059945716 0
@@ -1645,7 +1646,7 @@
 113/home/matt-dev/Desktop/client-works/landing/node_modules/@swc/helpers/_/_check_private_redeclaration/package.json1715774695953469388 0
 79/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/codeframe/test1715774696037467393 1
 84/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/utils/src/schema.js1715774699701380335 0
-58/home/matt-dev/Desktop/client-works/landing/src/index.html1716222119321593516 0
+58/home/matt-dev/Desktop/client-works/landing/src/index.html1716222727248137878 0
 124/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/lexer/index.js1715774701669333533 0
 79/home/matt-dev/Desktop/client-works/landing/node_modules/css-tree/lib/convertor1715774695753474136 1
 101/home/matt-dev/Desktop/client-works/landing/node_modules/caniuse-lite/data/features/scrollintoview.js1715774696613453714 0
