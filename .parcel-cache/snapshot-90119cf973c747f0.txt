@@ -1,13 +1,13 @@
 5868
 62/home/matt-dev/Desktop/client-works/landing/tailwind.config.js1715774896352588634 0
 57/home/matt-dev/Desktop/client-works/landing/src/input.css1715774866013340104 0
-58/home/matt-dev/Desktop/client-works/landing/src/output.css1716217564545673185 0
+58/home/matt-dev/Desktop/client-works/landing/src/output.css1716219688435227540 0
 67/home/matt-dev/Desktop/client-works/landing/src/assets/whatsapp.svg1715776994000000000 0
 64/home/matt-dev/Desktop/client-works/landing/src/assets/phone.svg1715776994000000000 0
 66/home/matt-dev/Desktop/client-works/landing/src/assets/twitter.svg1715776994000000000 0
 47/home/matt-dev/Desktop/client-works/landing/src1715778215641828539 1
-59/home/matt-dev/Desktop/client-works/landing/dist/index.html1716216296373809541 0
-48/home/matt-dev/Desktop/client-works/landing/dist1716216296485793557 1
+59/home/matt-dev/Desktop/client-works/landing/dist/index.html1716218132078036717 0
+48/home/matt-dev/Desktop/client-works/landing/dist1716218132145992986 1
 80/home/matt-dev/Desktop/client-works/landing/node_modules/@trysound/sax/README.md1715774694125512781 0
 74/home/matt-dev/Desktop/client-works/landing/node_modules/@trysound/sax/lib1715774694029515059 1
 83/home/matt-dev/Desktop/client-works/landing/node_modules/@trysound/sax/package.json1715774694069514110 0
@@ -530,7 +530,7 @@
 97/home/matt-dev/Desktop/client-works/landing/node_modules/csso/cjs/replace/property/background.cjs1715774693981516198 0
 132/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeScriptElement.js1715774701805330298 0
 80/home/matt-dev/Desktop/client-works/landing/node_modules/semver/functions/gte.js1715774695773473662 0
-72/home/matt-dev/Desktop/client-works/landing/dist/landing.59712999.js.map1716216296485793557 0
+72/home/matt-dev/Desktop/client-works/landing/dist/landing.59712999.js.map1716218132145992986 0
 132/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeEditorsNSData.js1715774701801330393 0
 118/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/lib/svgo-node.js1715774701813330107 0
 117/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/lib/svgo/coa.js1715774701785330774 0
@@ -1348,7 +1348,7 @@
 102/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/optimizer-image/lib/ImageOptimizer.js1715774698929398688 0
 106/home/matt-dev/Desktop/client-works/landing/node_modules/@swc/helpers/cjs/_initializer_define_property.cjs1715774695389482778 0
 127/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/core/test/fixtures/config-extends-not-found/.parcelrc-multiple1715774700293366260 0
-71/home/matt-dev/Desktop/client-works/landing/dist/index.1568f793.css.map1716216296485793557 0
+71/home/matt-dev/Desktop/client-works/landing/dist/index.1568f793.css.map1716218132145992986 0
 91/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/codeframe/src/codeframe.js1715774696033467488 0
 93/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/optimizer-image/package.json1715774698929398688 0
 80/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/optimizer-image1715774698929398688 1
@@ -1645,7 +1645,7 @@
 113/home/matt-dev/Desktop/client-works/landing/node_modules/@swc/helpers/_/_check_private_redeclaration/package.json1715774695953469388 0
 79/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/codeframe/test1715774696037467393 1
 84/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/utils/src/schema.js1715774699701380335 0
-58/home/matt-dev/Desktop/client-works/landing/src/index.html1716217564453664911 0
+58/home/matt-dev/Desktop/client-works/landing/src/index.html1716220201087110206 0
 124/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/lexer/index.js1715774701669333533 0
 79/home/matt-dev/Desktop/client-works/landing/node_modules/css-tree/lib/convertor1715774695753474136 1
 101/home/matt-dev/Desktop/client-works/landing/node_modules/caniuse-lite/data/features/scrollintoview.js1715774696613453714 0
@@ -1749,7 +1749,7 @@
 101/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/transformer-html/node_modules/srcset1715774701029348758 1
 88/home/matt-dev/Desktop/client-works/landing/node_modules/svgo/plugins/plugins-types.d.ts1715774695425481923 0
 113/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/LICENSE1715774701557336197 0
-68/home/matt-dev/Desktop/client-works/landing/dist/landing.59712999.js1716216296481794128 0
+68/home/matt-dev/Desktop/client-works/landing/dist/landing.59712999.js1716218132137998131 0
 99/home/matt-dev/Desktop/client-works/landing/node_modules/csso/node_modules/css-tree/cjs/version.cjs1715774700025372633 0
 119/home/matt-dev/Desktop/client-works/landing/node_modules/posthtml/node_modules/posthtml-parser/dist/location-tracker.js1715774701993325826 0
 99/home/matt-dev/Desktop/client-works/landing/node_modules/csso/node_modules/css-tree/dist/version.js1715774700165369304 0
@@ -2764,7 +2764,7 @@
 78/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/markdown-ansi1715774695813472712 1
 102/home/matt-dev/Desktop/client-works/landing/node_modules/caniuse-lite/data/features/form-validation.js1715774696213463213 0
 86/home/matt-dev/Desktop/client-works/landing/node_modules/electron-to-chromium/index.js1715774694729498445 0
-67/home/matt-dev/Desktop/client-works/landing/dist/index.1568f793.css1716216296481794128 0
+67/home/matt-dev/Desktop/client-works/landing/dist/index.1568f793.css1716218132137998131 0
 90/home/matt-dev/Desktop/client-works/landing/node_modules/update-browserslist-db/index.d.ts1715774694749497971 0
 87/home/matt-dev/Desktop/client-works/landing/node_modules/csso/cjs/restructure/utils.cjs1715774694269509363 0
 95/home/matt-dev/Desktop/client-works/landing/node_modules/@parcel/core/lib/public/Environment.js1715774700361364643 0
